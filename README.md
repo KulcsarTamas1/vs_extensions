@@ -1,2 +1,2 @@
 # vs_extensions
-kiterjesztések
+Visual Studio Extensions List
