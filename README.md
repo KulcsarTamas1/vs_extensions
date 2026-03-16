@@ -1,2 +1,2 @@
 # vs_extensions
-extensionok
+kiterjesztések
