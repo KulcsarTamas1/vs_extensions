@@ -1,0 +1,2 @@
+# vs_extensions
+extensionok
