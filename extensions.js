@@ -10,7 +10,9 @@ let extensions = [
   'xabikos.javascript',
   'svelte.svelte-vscode',
   'vue.volar',
-  'jawandarajbir.react-vscode-extension-pack'
+  'jawandarajbir.react-vscode-extension-pack',
+  'bradlc.vscode-tailwindcss',
+  'austenc.tailwind-docs'
 ];
 
 let uniqueExtensions = [...new Set(extensions)];
