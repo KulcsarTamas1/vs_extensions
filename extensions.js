@@ -11,7 +11,8 @@ let extensions = [
   'vue.volar',
   'jawandarajbir.react-vscode-extension-pack',
   'bradlc.vscode-tailwindcss',
-  'austenc.tailwind-docs'
+  'austenc.tailwind-docs',
+  'usernamehw.errorlens'
 ];
 
 let uniqueExtensions = [...new Set(extensions)];
